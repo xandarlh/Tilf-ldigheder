@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\Randoms\Randoms\bin\Debug\Randoms.exe.config
+C:\Users\alex303a\source\repos\Randoms\Randoms\bin\Debug\Randoms.exe
+C:\Users\alex303a\source\repos\Randoms\Randoms\bin\Debug\Randoms.pdb
+C:\Users\alex303a\source\repos\Randoms\Randoms\obj\Debug\Randoms.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\Randoms\Randoms\obj\Debug\Randoms.exe
+C:\Users\alex303a\source\repos\Randoms\Randoms\obj\Debug\Randoms.pdb
